@@ -30,3 +30,5 @@ OctoAcme's approach is grounded in these principles:
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release checklist, deployment steps, and rollback playbook |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Reviewing outcomes, documenting learnings, and driving improvement |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and goals for each team role |
+| [RACI / Ownership Matrix Template](octoacme-raci-matrix.md) | Maps core project activities to roles for clear ownership across cross-functional teams |
+| [Cross-functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) | Step-by-step checklist for each phase transition from requirements through customer enablement |

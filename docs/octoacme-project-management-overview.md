@@ -41,6 +41,15 @@ Applies to all cross-functional projects that deliver product features, services
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
 
+## Supporting Templates
+
+Use the templates below to reduce ambiguity and improve execution consistency across cross-functional projects:
+
+- **[RACI / Ownership Matrix](octoacme-raci-matrix.md):** Maps core project activities to roles (including all extended personas), so every activity has a clear owner and decision-maker.
+- **[Cross-functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md):** Step-by-step checklist covering each phase transition (requirements → design → implementation → QA → release → customer enablement), with artifacts and sign-off owners.
+
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
+- Complete the RACI Matrix at the start of planning to confirm role ownership.
+- Use the Handoff Checklist at each phase gate to ensure smooth transitions.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
